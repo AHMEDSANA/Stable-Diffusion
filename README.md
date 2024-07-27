@@ -19,8 +19,7 @@ Once trained, the model can start with pure noise instead of real data. By runni
 Our goal is to apply stable diffusion models to the CIFAR-10 dataset, which contains images of various objects. By training a stable diffusion model on this dataset, we aim to generate high-quality images that capture the essence of each object category. This project enables us to explore the power of stable diffusion in creating lifelike images.
 
 
-markdown
-Copy code
+
 # Running the Code
 
 ## Prerequisites
