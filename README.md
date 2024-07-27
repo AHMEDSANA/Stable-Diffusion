@@ -16,7 +16,7 @@ Now comes the sculpting. The model learns to reverse the noise addition, predict
 ## Generating New Data
 Once trained, the model can start with pure noise instead of real data. By running the reverse process, it sculpts that noise into brand new data that resembles the data it was trained on, like generating realistic images or composing coherent text.
 ## Project Goal
-Our goal is to apply stable diffusion models to the CIFAR-10 dataset, which contains images of various objects. By training a stable diffusion model on this dataset, we aim to generate high-quality images that capture the essence of each object category. This project enables us to explore the power of stable diffusion in creating lifelike images.
+Our goal is to apply stable diffusion models to the CIFAR-10 dataset, which contains images of various objects. By training a stable diffusion model on this dataset, we aim to generate high-quality images that capture the essence of each object category. This project enables us to explore the power of stable diffusion in creating life like images.
 
 
 
